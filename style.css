@@ -43,6 +43,12 @@ header {
   padding-bottom: 25px;
   position: fixed;
   background-color: var(--primary-color);
+  color: white;
+}
+
+header a {
+  color: white;
+  text-decoration: none;
 }
 
 header ul li {
